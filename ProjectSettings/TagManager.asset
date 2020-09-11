@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - BlackHole
+  - Hazard
+  - Hazard2
+  - Vibration
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 374469207
+    locked: 0
+  - name: MidGround
+    uniqueID: 1152880475
+    locked: 0
+  - name: Foreground
+    uniqueID: 1686418679
+    locked: 0
+  - name: Foreground2
+    uniqueID: 4148395803
+    locked: 0
+  - name: UI
+    uniqueID: 2217061605
+    locked: 0
